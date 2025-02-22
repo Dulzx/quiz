@@ -11,6 +11,15 @@ Selamat datang di **Latihan Soal JavaScript**! 🚀 Proyek ini bertujuan untuk m
 - **Desain Modern dan Responsif**: Dengan menggunakan **Tailwind CSS**, aplikasi ini akan tampil dengan desain yang bersih dan responsif, cocok untuk berbagai perangkat.
 - **Animasi Menarik**: Menyediakan animasi interaktif yang membuat proses belajar lebih hidup dan tidak membosankan!
 
+## 🌐 **Demo Langsung**
+
+Lihat demo animasi menarik yang menyertai aplikasi ini dan coba langsung:
+
+[**Demo Aplikasi JavaScript Quiz**](https://dulzx.github.io/quiz.github.io/)  
+Cobalah aplikasi interaktif ini langsung di browser Anda dan lihat cara kerjanya!
+
+---
+
 ## 📚 **Topik yang Diuji:**
 
 1. **Perbedaan antara `var`, `let`, dan `const`.**
