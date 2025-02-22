@@ -1,31 +1,26 @@
-# 🚀 **Latihan Soal JavaScript - Quiz Interaktif** 🎯
+# 🌟 **Latihan Soal JavaScript - Quiz Interaktif**
 
-Selamat datang di **Latihan Soal JavaScript**, aplikasi web interaktif yang dirancang untuk membantu Anda mengasah keterampilan dasar JavaScript secara menyenangkan dan interaktif. Dengan **13 soal praktis**, Anda akan melatih konsep-konsep dasar JavaScript seperti variabel, tipe data, operator, dan struktur kontrol. Aplikasi ini dilengkapi dengan animasi dan umpan balik interaktif untuk pengalaman belajar yang lebih menarik!
+![Header Image](https://media.giphy.com/media/26AHonKjsHL2ABPFA/giphy.gif)
 
-![Intro Animation](https://media.giphy.com/media/1hMMotHToyg4u4Qj41/giphy.gif)  
-*Ilustrasi animasi pembelajaran JavaScript*
+Selamat datang di **Latihan Soal JavaScript**! 🚀 Proyek ini bertujuan untuk membantu Anda memahami dan menguasai dasar-dasar JavaScript melalui serangkaian soal yang **interaktif** dan **menyenangkan**. Dengan fitur *check answer* dan desain yang responsif, Anda dapat berlatih kapan saja, di mana saja.
 
-## 🌟 **Fitur Utama**
+## 🎯 **Fitur Utama:**
 
-✨ **Soal-Soal Interaktif:** Berisi soal-soal dengan berbagai tingkat kesulitan yang dapat membantu Anda memahami dasar-dasar JavaScript.
+- **13 Soal Interaktif**: Dirancang untuk mengasah pengetahuan Anda tentang dasar-dasar JavaScript, dari deklarasi variabel hingga perulangan dan logika kondisi.
+- **Cek Jawaban Otomatis**: Setelah menjawab soal, Anda dapat melihat jawaban yang benar dan mendapatkan penjelasan singkat.
+- **Desain Modern dan Responsif**: Dengan menggunakan **Tailwind CSS**, aplikasi ini akan tampil dengan desain yang bersih dan responsif, cocok untuk berbagai perangkat.
+- **Animasi Menarik**: Menyediakan animasi interaktif yang membuat proses belajar lebih hidup dan tidak membosankan!
 
-💬 **Cek Jawaban:** Lihat jawaban yang benar setelah Anda mencoba soal untuk memahami solusi yang tepat.
+## 📚 **Topik yang Diuji:**
 
-📱 **Desain Responsif:** Antarmuka yang dirancang menggunakan **Tailwind CSS** agar nyaman digunakan di berbagai perangkat, baik itu desktop, tablet, atau ponsel.
+1. **Perbedaan antara `var`, `let`, dan `const`.**
+2. **Output dari kode yang melibatkan operasi variabel dan tipe data.**
+3. **Memperbaiki kode dengan error terkait deklarasi variabel.**
+4. **Tipe data dalam JavaScript**: String, Number, Boolean, Array, Object.
+5. **Penggunaan operator logika** seperti `&&`, `||`, `==`, `===`.
+6. **Struktur kontrol**: `if-else`, `switch-case`, dan perulangan (`for`, `while`, `do-while`).
 
-💡 **Animasi Menarik:** Animasi yang dinamis membuat proses belajar menjadi lebih menyenangkan dan interaktif.
-
-## 📚 **Topik yang Diuji**
-
-- **Perbedaan antara `var`, `let`, dan `const`.**
-- **Output dari kode dengan operasi variabel.**
-- **Perbaikan kode dengan error deklarasi variabel.**
-- **Tipe data dasar dalam JavaScript.**
-- **Penggunaan array dan objek untuk menyimpan data.**
-- **Operasi logika dan perbandingan dengan operator seperti `&&`, `||`, `==`, `===`.**
-- **Struktur kontrol**: `if-else`, `switch-case`, dan perulangan (`for`, `while`, `do-while`).
-
-## 🚀 **Cara Menggunakan**
+## 🧑‍💻 **Cara Menggunakan:**
 
 1. **Clone repository ini**:
    ```bash
